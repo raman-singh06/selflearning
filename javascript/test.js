@@ -1,5 +1,3 @@
-let myStr;
-myStr = "This is the first sentence."+= "This is the second sentence";
-console.log(myStr);
-
-// this is a comment
+const myArray = [50, 60, 70];
+const myData = myArray[0];
+console.log(myData);
