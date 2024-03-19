@@ -18,4 +18,7 @@ console.log(result)
 
 
 
+
+
+
 // write a function that accepts 2 arg - arg1 and arg 2. arg is an array and arg 2 is also an array. your function should add these array an arry that has elements for

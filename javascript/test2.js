@@ -18,12 +18,12 @@ function foo(agr1, arg2){
     }
 }
 
-arr1 = [1,2,3,4,5]
+arr1 = [1,2,"jasmeen",4,5]
 arr2 = [2,4]
 foo(arr1, arr2)
 
 
-
+//qwfqerwerfwerferferfd
 
 
 
