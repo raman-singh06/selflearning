@@ -20,5 +20,6 @@ function phoneticLookup(val) {
   }
   
   result=phoneticLookup("alpha");
+  
   console.log(result);
 
